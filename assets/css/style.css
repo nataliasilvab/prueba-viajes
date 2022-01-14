@@ -1,0 +1,23 @@
+body {
+  background: #000000;
+  margin: 0;
+  color: #ffffff;
+  font-family: "Raleway";
+}
+
+.navbar {
+  background-color: #0dcaf0;
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+  font-family: "Quicksand";
+}
+
+#Footer {
+  background-color: #0dcaf0;
+  font-family: "Cabin";
+}
+
+.card {
+  background-color: #0dcaf0;
+}
